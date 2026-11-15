@@ -8,7 +8,7 @@ realizando en el módulo de Big Data Aplicado.
 ## Unidades de trabajo
 
 - [UT01. Paradigmas distribuidos](ut01/index.md)
-- [UT02. Próximas prácticas](ut02/index.md)
+- [UT02. Almacenamiento ditribuido e integridad con HDFS](ut02/index.md)
 
 ## Repositorio
 
