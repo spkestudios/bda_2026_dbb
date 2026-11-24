@@ -9,6 +9,7 @@ realizando en el módulo de Big Data Aplicado.
 
 - [UT01. Paradigmas distribuidos](ut01/index.md)
 - [UT02. Almacenamiento ditribuido e integridad con HDFS](ut02/index.md)
+- [UT03. Data Lakes y almacenamiento distribuido en cloud con S3](ut03/index.md)
 
 ## Repositorio
 
